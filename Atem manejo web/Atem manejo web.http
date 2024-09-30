@@ -1,0 +1,6 @@
+@Atem_manejo_web_HostAddress = http://localhost:5041
+
+GET {{Atem_manejo_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
